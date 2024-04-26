@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="op_1">Canciones</string>
+    <string name="op_2">Peliculas</string>
+
+    <string-array name="generosp">
+        <item>Accion </item>
+        <item>Terror </item>
+        <item>Comedia </item>
+        <item>Romance </item>
+        <item>Ciencia ficcion </item>
+    </string-array>
 </resources>
